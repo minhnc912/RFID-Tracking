@@ -120,12 +120,7 @@ export default function Home() {
       <div className="flex-1 flex flex-col items-center justify-center p-6 overflow-auto">
         <div className="w-full max-w-[1920px] mb-4 flex justify-between items-end px-2">
           <div>
-            <h2 className="text-xl font-bold text-white">
-              Sơ đồ Mặt bằng Giám sát Real-time
-            </h2>
-            <p className="text-xs text-slate-400">
-              Tự động tính toán vị trí, thời lượng lưu trú và điểm danh
-            </p>
+            <h2 className="text-xl font-bold text-white">Tracking</h2>
           </div>
           {currentLog && (
             <div className="text-xs bg-blue-500/10 border border-blue-500/30 text-blue-400 px-3 py-1.5 rounded-lg font-mono">

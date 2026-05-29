@@ -9,7 +9,6 @@ const ZONE_PIXELS = {
   Cafeteria: { x: 269, y: 235 },
   Restroom: { x: 456, y: 522 },
   Lab: { x: 250, y: 509 },
-  Recess: { x: 906, y: 579 },
   Classroom_3: { x: 812, y: 509 },
   Classroom_4: { x: 594, y: 318 },
   Leaving: { x: 750, y: 95 },
